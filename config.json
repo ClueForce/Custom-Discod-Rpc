@@ -1,22 +1,22 @@
 {
-    "clientId": "864484122240352316",
+    "clientId": "Your Client Id",
     "rich_presence": {
-        "details": "Best Minecraft Servers",
-        "state": "IP: necron-network.xyz",
+        "details": "Line 1",
+        "state": "Line 2",
         "assets": {
-            "largeImageText": "Necron Network",
-            "largeImageKey": "necron",
-            "smallImageText": "Discord Servers",
-            "smallImageKey": "discord5-1"
+            "largeImageText": "Large Image Name",
+            "largeImageKey": "Large-Image-Key",
+            "smallImageText": "Small Image Name",
+            "smallImageKey": "Small-Image-Key"
         },
         "buttons": {
             "primary": {
-                "buttonLabelText": "Discord",
-                "buttonRedirectUrl": "https://discord.gg/u4B6e336zm"
+                "buttonLabelText": "Button 1",
+                "buttonRedirectUrl": "https://yourlinkishere.com"
             },
             "secondary": {
-                "buttonLabelText": "Website (Soon)",
-                "buttonRedirectUrl": "https://soon.com"
+                "buttonLabelText": "Button 2",
+                "buttonRedirectUrl": "https://yourlinkishere.com"
             }
         },
         "timestamps": {
