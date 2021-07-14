@@ -40,7 +40,8 @@ if done, you must save changes!
 4. Go to Console Command and type `node index.js` or `node .`
 5. Done! you can use Discord Rich Precense now!
 
-Example Discord Rich Precense :
+Example Discord Rich Precense
+
 ![Image](https://cdn.discordapp.com/attachments/818356648107966527/864775609792069702/owner-discussion-channel_-_Discord_7_14_2021_2_47_22_PM_2.png)
 
 # Important
