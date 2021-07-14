@@ -3,7 +3,7 @@
 This is a Simple Discord Rich Precense
 
 # Installation
-1. First Step you must [Download Zip File](https://github.com/ClueForce/Custom-Discord-Rpc/releases/tab/1.0) from this Repo
+1. First Step you must [Download Zip File](https://github.com/ClueForce/Custom-Discord-Rpc/releases/tag/1.0) from this Repo
 2. Extact the Zip File
 3. Go to `config.json` and Edit as you want, this is a Example `config.JSON`
 ```json
