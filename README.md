@@ -1,4 +1,4 @@
-# Custom-Discod-Rpc
+# Custom-Discord-Rpc
 
 This is a Simple Discord Rich Precense
 
