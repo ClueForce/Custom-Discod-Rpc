@@ -47,3 +47,12 @@ Example Discord Rich Precense
 # Important
 Discord-RPC will work if you use Discord APP, and Discord-RPC will not work if you use Discord Chrome
 
+# Links
+- [Support Server](https://discord.gg/44SvhqSRH7) - If you want to ask something about this project
+- [LtSamune Hosting](https://discord.ltsamune-hosting.store) - Best Hosting with High Performence
+- [Necron Network](https://discord.gg/9C9WeXGpWG) - Best Minecraft Server with Many Games and have 500 Total Members
+- [RestroHost](https://discord.restrohost.my.id) - Best Hosting with affordable prices and equipped with high performance
+
+- [Release](https://github.com/ClueForce/Custom-Discord-Rpc/releases/tag/1.0)
+- [License](https://github.com/ClueForce/Custom-Discord-Rpc/blob/master/LICENSE)
+- [Installation](https://github.com/ClueForce/Custom-Discord-Rpc/blob/master/README.mc#Installation)
