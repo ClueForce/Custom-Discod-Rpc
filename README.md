@@ -53,6 +53,7 @@ Discord-RPC will work if you use Discord APP, and Discord-RPC will not work if y
 - [Necron Network](https://discord.gg/9C9WeXGpWG) - Best Minecraft Server with Many Games and have 500 Total Members
 - [RestroHost](https://discord.restrohost.my.id) - Best Hosting with affordable prices and equipped with high performance
 
+# More Information
 - [Release](https://github.com/ClueForce/Custom-Discord-Rpc/releases/tag/1.0)
 - [License](https://github.com/ClueForce/Custom-Discord-Rpc/blob/master/LICENSE)
-- [Installation](https://github.com/ClueForce/Custom-Discord-Rpc/blob/master/README.mc#Installation)
+- [Installation](https://github.com/ClueForce/Custom-Discord-Rpc/blob/master/README.md#installation)
