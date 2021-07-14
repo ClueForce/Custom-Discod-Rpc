@@ -1,2 +1,5 @@
 # Custom-Discod-Rpc
-Custom Discord Rich Precense
+
+This is a Simple Discord Rich Precense
+
+# Installation
