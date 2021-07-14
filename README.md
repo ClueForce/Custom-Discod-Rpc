@@ -41,7 +41,7 @@ if done, you must save changes!
 5. Done! you can use Discord Rich Precense now!
 
 Example Discord Rich Precense :
-![Image]()
+![Image](https://cdn.discordapp.com/attachments/818356648107966527/864775609792069702/owner-discussion-channel_-_Discord_7_14_2021_2_47_22_PM_2.png)
 
 # Important
 Discord-RPC will work if you use Discord APP, and Discord-RPC will not work if you use Discord Chrome
